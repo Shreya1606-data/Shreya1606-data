@@ -1,114 +1,193 @@
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  SHREYA MISHRA                          -->
+<!--             GITHUB PROFILE README                       -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Shreya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Analytics%20%7C%20Creativity&descAlignY=58&descSize=18"/>
+<!-- HEADER -->
 
-# ✨ Hey there, I'm Shreya! 👋
-
-### `Computer Science Student` · `Data & AI Enthusiast` · `Creative Thinker`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=B86BFF&center=true&vCenter=true&width=750&lines=Turning+data+into+stories+%F0%9F%93%8A;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning.+Building.+Experimenting.+%F0%9F%8C%B1;Still+figuring+things+out...+%F0%9F%92%AB;And+I+think+that's+the+best+part.+%F0%9F%8C%B7" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:1B103D,75:4C1D95,100:7C3AED&height=220&section=header&text=SHREYA%20MISHRA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20ANALYTICS&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
+<!-- TYPING INTRO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=C084FC&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shreya+%F0%9F%91%8B;Data+%7C+AI+%7C+Analytics;Turning+Curiosity+Into+Code;Exploring.+Building.+Evolving." alt="Typing SVG"/>
+
+<br><br>
+
+<!-- SOCIAL LINKS -->
+
+<a href="https://github.com/Shreya1606-data">
+<img src="https://img.shields.io/badge/GitHub-sangya--25-171321?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 <a href="https://www.linkedin.com/in/shreya-mishra-60242036b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Shreya%20Mishra-171321?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-
-<a href="https://leetcode.com/Shreyaa_D16/">
-<img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 <a href="mailto:mishrashreya1606@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-171321?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+<a href="https://leetcode.com/u/Shreya_D1611/">
+<img src="https://img.shields.io/badge/LeetCode-Shreya_D1611-171321?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shreya1606-data&color=blueviolet&style=flat-square)
-
 </div>
 
 ---
 
-## 🌷 A little about me
-
-> **"Still figuring things out, and I think that's the best part."** 💫
-
-I'm a **Computer Science student at Chandigarh University** who enjoys exploring the fascinating world of **Data, Artificial Intelligence, Machine Learning, and Analytics**.
-
-I like taking messy information and trying to turn it into something meaningful — whether that's an insight, a visualization, a solution, or simply a better question.
-
-I'm curious about how technology can be used to understand people, patterns, and problems.
-
-And somewhere between analyzing data and debugging code, I also enjoy being creative. 🎨
-
-### Currently, I'm...
-
-🔭 Exploring **Data Science & AI**
-
-📊 Learning more about **Data Analytics & Visualization**
-
-🤖 Diving deeper into **Machine Learning**
-
-💼 Exploring **Business Analytics**
-
-🧩 Sharpening my **Problem Solving** skills
-
-🎨 Experimenting with **creative visualization & design**
-
-🌱 Building things, breaking things, and learning from both
-
----
-
-# 🧠 My Tech Universe
+<!-- TERMINAL INTRO -->
 
 <div align="center">
 
-### 📊 DATA
+```text
+╭────────────────────────────────────────────╮
+│  ~/shreya ✦                              │
+├────────────────────────────────────────────┤
+│                                            │
+│  $ whoami                                  │
+│  > Shreya Mishra                           │
+│                                            │
+│  $ focus                                   │
+│  > Data • AI • Analytics                   │
+│                                            │
+│  $ mindset                                 │
+│  > Curious mind. Creative solutions.       │
+│                                            │
+│  $ status                                  │
+│  > Learning something new...               │
+│                                            │
+╰────────────────────────────────────────────╯
+```
 
-<img src="https://img.shields.io/badge/Data%20Analysis-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-3498DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-E67E22?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business%20Analytics-16A085?style=for-the-badge"/>
+### `DATA × CURIOSITY × CREATIVITY`
 
-### 🤖 INTELLIGENCE
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C5CE7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative%20AI-00B894?style=for-the-badge"/>
-
-### 🎨 CREATIVE SIDE
-
-<img src="https://img.shields.io/badge/Problem%20Solving-F39C12?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Storytelling-E84393?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+*Exploring ideas. Building possibilities.*
 
 </div>
 
 ---
 
-# 🪄 The way I think
+<!-- TOOLKIT -->
 
-```text
-                     ✨ CURIOSITY
-                          │
-                          ▼
-                   ┌──────────────┐
-                   │   ASK WHY ?  │
-                   └──────┬───────┘
-                          │
-                          ▼
-                   📊 EXPLORE DATA
-                          │
-                          ▼
-                   🧠 FIND PATTERNS
-                          │
-                          ▼
-                   💡 CREATE INSIGHT
-                          │
-                          ▼
-                   🚀 BUILD SOMETHING
-                          │
-                          ▼
-                   🌱 LEARN & REPEAT
+<div align="center">
+
+## ⚡ MY TOOLKIT
+
+<br>
+
+### `LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript&theme=dark" />
+
+<br><br>
+
+### `DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,git,github&theme=dark" />
+
+<br><br>
+
+### `DATA • DATABASES • VISUALIZATION`
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-181321?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Tableau-181321?style=for-the-badge&logo=tableau&logoColor=E97627"/>
+<img src="https://img.shields.io/badge/Power%20BI-181321?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Canva-181321?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+
+</div>
+
+---
+
+<!-- GITHUB STATS -->
+
+<div align="center">
+
+## 📊 GITHUB ACTIVITY
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shreya1606-data&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&rank_icon=github" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangya-25&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" width="49%"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Shreya1606-data&theme=tokyonight&hide_border=true&border_radius=16" width="75%"/>
+
+</div>
+
+---
+
+<!-- LEETCODE -->
+
+<div align="center">
+
+## 🧩 LEETCODE
+
+<a href="https://leetcode.com/u/Shreya_D1611/">
+
+<img src="https://img.shields.io/badge/LeetCode-Shreya_D1611-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Shreya_D1611?theme=dark&font=baloo&ext=heatmap" width="90%" alt="LeetCode profile stats"/>
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+<div align="center">
+
+## 🐍 CONTRIBUTION JOURNEY
+
+<br>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=C084FC&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by+%F0%9F%92%9C;Let's+build+something+meaningful." alt="Footer typing animation"/>
+
+<br><br>
+
+<a href="https://github.com/sangya-25">
+<img src="https://img.shields.io/badge/Explore%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shreya-mishra-60242036b/">
+<img src="https://img.shields.io/badge/Let's%20Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mishrashreya1606@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shreya1606-data&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,40:1B103D,75:4C1D95,100:7C3AED&height=120&section=footer" width="100%"/>
+
+</div>

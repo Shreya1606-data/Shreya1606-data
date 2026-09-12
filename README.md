@@ -1,103 +1,114 @@
+
 <div align="center">
 
-# ✨ Hey, I'm Shreya Mishra 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Shreya%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%7C%20AI%20%7C%20Analytics%20%7C%20Creativity&descAlignY=58&descSize=18"/>
 
-### `Computer Science Student` • `Data & AI Enthusiast` • `Creative Problem Solver`
+# ✨ Hey there, I'm Shreya! 👋
 
-<p>
-  <em>Still figuring things out — and I think that's the best part. 💫</em>
-</p>
+### `Computer Science Student` · `Data & AI Enthusiast` · `Creative Thinker`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=B86BFF&center=true&vCenter=true&width=750&lines=Turning+data+into+stories+%F0%9F%93%8A;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Learning.+Building.+Experimenting.+%F0%9F%8C%B1;Still+figuring+things+out...+%F0%9F%92%AB;And+I+think+that's+the+best+part.+%F0%9F%8C%B7" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+<a href="https://www.linkedin.com/in/shreya-mishra-60242036b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/Shreyaa_D16/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20with%20me-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:mishrashreya1606@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shreya1606-data&color=blueviolet&style=flat-square)
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🌷 A little about me
 
-I'm a **Computer Science student at Chandigarh University** with a growing passion for **Data Science, Machine Learning, Data Analytics, and Business Analytics**.
+> **"Still figuring things out, and I think that's the best part."** 💫
 
-I enjoy exploring data, finding patterns, creating meaningful visualizations, and turning ideas into solutions that actually make sense.
+I'm a **Computer Science student at Chandigarh University** who enjoys exploring the fascinating world of **Data, Artificial Intelligence, Machine Learning, and Analytics**.
 
-I'm currently learning, experimenting, building, and trying to understand the *why* behind the technology — not just the *how*.
+I like taking messy information and trying to turn it into something meaningful — whether that's an insight, a visualization, a solution, or simply a better question.
 
-> 💭 **My philosophy:**  
-> *You don't have to have everything figured out. Keep learning, keep building, and keep moving forward.*
+I'm curious about how technology can be used to understand people, patterns, and problems.
+
+And somewhere between analyzing data and debugging code, I also enjoy being creative. 🎨
+
+### Currently, I'm...
+
+🔭 Exploring **Data Science & AI**
+
+📊 Learning more about **Data Analytics & Visualization**
+
+🤖 Diving deeper into **Machine Learning**
+
+💼 Exploring **Business Analytics**
+
+🧩 Sharpening my **Problem Solving** skills
+
+🎨 Experimenting with **creative visualization & design**
+
+🌱 Building things, breaking things, and learning from both
 
 ---
 
-## 🎓 Education & Certifications
-
-🎓 **Computer Science Student**  
-**Chandigarh University**
-
-📜 **NPTEL Certified**
-
-🔍 Currently exploring:
-
-- 🤖 Machine Learning
-- 📊 Data Analytics
-- 💼 Business Analytics
-- 🧠 Artificial Intelligence
-- 📈 Data Visualization
-- 💡 Problem Solving
-
----
-
-## 🧠 What I'm Interested In
+# 🧠 My Tech Universe
 
 <div align="center">
 
-| 📊 Data | 🤖 AI & ML | 💼 Analytics | 🎨 Creativity |
-|:---:|:---:|:---:|:---:|
-| Data Analysis | Machine Learning | Business Analytics | Data Visualization |
-| Statistics | Artificial Intelligence | Data-driven Decisions | Adobe Illustrator |
-| Insights | AI Applications | Problem Solving | Visual Storytelling |
+### 📊 DATA
+
+<img src="https://img.shields.io/badge/Data%20Analysis-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-3498DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Analytics-16A085?style=for-the-badge"/>
+
+### 🤖 INTELLIGENCE
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-00B894?style=for-the-badge"/>
+
+### 🎨 CREATIVE SIDE
+
+<img src="https://img.shields.io/badge/Problem%20Solving-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Storytelling-E84393?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 
 </div>
 
 ---
 
-## 🛠️ My Skill Set
-
-### 📊 Data & Analytics
-
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-8E44AD?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-3498DB?style=for-the-badge)
-![Business Analytics](https://img.shields.io/badge/Business%20Analytics-16A085?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-E67E22?style=for-the-badge)
-
-### 🤖 AI & Machine Learning
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C5CE7?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-00B894?style=for-the-badge)
-
-### 🎨 Creative Skills
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-F39C12?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-E84393?style=for-the-badge)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
----
-
-## 🌱 Currently Learning
+# 🪄 The way I think
 
 ```text
-                ┌──────────────────────────┐
-                │       MY JOURNEY 🚀      │
-                └────────────┬─────────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          ↓                  ↓                  ↓
-       🤖 AI/ML           📊 DATA            💼 BUSINESS
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             ↓
-                    💡 MEANINGFUL INSIGHTS
-                             │
-                             ↓
-                      🚀 REAL SOLUTIONS
+                     ✨ CURIOSITY
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │   ASK WHY ?  │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   📊 EXPLORE DATA
+                          │
+                          ▼
+                   🧠 FIND PATTERNS
+                          │
+                          ▼
+                   💡 CREATE INSIGHT
+                          │
+                          ▼
+                   🚀 BUILD SOMETHING
+                          │
+                          ▼
+                   🌱 LEARN & REPEAT

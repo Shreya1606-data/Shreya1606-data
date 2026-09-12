@@ -21,7 +21,7 @@
 <!-- SOCIAL LINKS -->
 
 <a href="https://github.com/Shreya1606-data">
-<img src="https://img.shields.io/badge/GitHub-sangya--25-171321?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Shreya1606--data-171321?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.linkedin.com/in/shreya-mishra-60242036b/">
 <img src="https://img.shields.io/badge/LinkedIn-Shreya%20Mishra-171321?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
@@ -116,7 +116,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shreya1606-data&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&include_all_commits=true&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangya-25&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya1606-data&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" width="49%"/>
 
 <br><br>
 
@@ -170,7 +170,7 @@
 
 <br><br>
 
-<a href="https://github.com/sangya-25">
+<a href="https://github.com/Shreya1606-data">
 <img src="https://img.shields.io/badge/Explore%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
